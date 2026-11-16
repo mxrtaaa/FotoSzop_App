@@ -28,9 +28,10 @@ Thumbs.db
 # Dane, modele i duże pliki graficzne
 /data/*
 # ale trzeba będzie chyba dodać wyjątki dla mniejszych części
+*.pth
 
 # Ignorujemy przypadkowe zrzuty ekranu i inne grafiki w głównym folderze
-*.jpg
+
 *.jpeg
 *.png
 *.bmp
