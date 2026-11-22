@@ -56,5 +56,5 @@ _Note: This variable is session-based. You will need to run this command again i
 
 Once the libraries are installed, launch the main GUI application:
 ```bash
-python frontend/main_window.py
+python main.py
 ```
